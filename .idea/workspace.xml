@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0efa946a-593f-4829-8902-9bac9ff44a9b" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +53,63 @@
       <option name="presentableId" value="Default" />
       <updated>1703205249056</updated>
     </task>
+    <task id="LOCAL-00001" summary="두수의 곱">
+      <option name="closed" value="true" />
+      <created>1703205794778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703205794778</updated>
+    </task>
+    <task id="LOCAL-00002" summary="두수의 나눈 몫">
+      <option name="closed" value="true" />
+      <created>1703206224876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703206224876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="두수의 나눈 몫">
+      <option name="closed" value="true" />
+      <created>1703206695221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703206695221</updated>
+    </task>
+    <task id="LOCAL-00004" summary="숫자비교하기">
+      <option name="closed" value="true" />
+      <created>1703206738208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703206738208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="숫자비교하기, 나이출력">
+      <option name="closed" value="true" />
+      <created>1703206768163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703206768163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="두 수의 합">
+      <option name="closed" value="true" />
+      <created>1703206974184</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703206974184</updated>
+    </task>
+    <task id="LOCAL-00007" summary="두 수의 나눗셈">
+      <option name="closed" value="true" />
+      <created>1703207408640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703207408640</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,15 +123,13 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="두수의 곱" />
+    <MESSAGE value="두수의 나눈 몫" />
+    <MESSAGE value="숫자비교하기" />
+    <MESSAGE value="숫자비교하기, 나이출력" />
+    <MESSAGE value="두 수의 합" />
+    <MESSAGE value="두 수의 나눗셈" />
+    <option name="LAST_COMMIT_MESSAGE" value="두 수의 나눗셈" />
   </component>
 </project>
