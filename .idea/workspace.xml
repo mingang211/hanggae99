@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0efa946a-593f-4829-8902-9bac9ff44a9b" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codecata4/Quest51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codecata4/Quest51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codecata5/Quest52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codecata5/Quest52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codecata5/Quest53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codecata5/Quest53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codecata5/Quest54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codecata5/Quest54.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +93,12 @@
     "애플리케이션.Quest47.executor": "Run",
     "애플리케이션.Quest48.executor": "Debug",
     "애플리케이션.Quest49.executor": "Run",
-    "애플리케이션.Quest50.executor": "Run"
+    "애플리케이션.Quest50.executor": "Run",
+    "애플리케이션.Quest51.executor": "Run",
+    "애플리케이션.Quest52.executor": "Debug",
+    "애플리케이션.Quest53.executor": "Run",
+    "애플리케이션.Quest54.executor": "Run",
+    "애플리케이션.Quest55.executor": "Run"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -99,9 +108,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Quest50">
-    <configuration name="Quest46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecata4.Quest46" />
+  <component name="RunManager" selected="애플리케이션.Quest55">
+    <configuration name="Quest51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecata4.Quest51" />
       <module name="codecata" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quest47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecata4.Quest47" />
+    <configuration name="Quest52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecata5.Quest52" />
+      <module name="codecata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quest53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecata5.Quest53" />
       <module name="codecata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codecata4.*" />
+          <option name="PATTERN" value="codecata5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quest48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecata4.Quest48" />
+    <configuration name="Quest54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecata5.Quest54" />
       <module name="codecata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codecata4.*" />
+          <option name="PATTERN" value="codecata5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,25 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quest49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecata4.Quest49" />
+    <configuration name="Quest55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecata5.Quest55" />
       <module name="codecata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codecata4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Quest50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecata4.Quest50" />
-      <module name="codecata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codecata4.*" />
+          <option name="PATTERN" value="codecata5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Quest50" />
-        <item itemvalue="애플리케이션.Quest49" />
-        <item itemvalue="애플리케이션.Quest48" />
-        <item itemvalue="애플리케이션.Quest47" />
-        <item itemvalue="애플리케이션.Quest46" />
+        <item itemvalue="애플리케이션.Quest55" />
+        <item itemvalue="애플리케이션.Quest54" />
+        <item itemvalue="애플리케이션.Quest53" />
+        <item itemvalue="애플리케이션.Quest52" />
+        <item itemvalue="애플리케이션.Quest51" />
       </list>
     </recent_temporary>
   </component>
@@ -191,54 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703205249056</updated>
-    </task>
-    <task id="LOCAL-00005" summary="숫자비교하기, 나이출력">
-      <option name="closed" value="true" />
-      <created>1703206768163</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1703206768163</updated>
-    </task>
-    <task id="LOCAL-00006" summary="두 수의 합">
-      <option name="closed" value="true" />
-      <created>1703206974184</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1703206974184</updated>
-    </task>
-    <task id="LOCAL-00007" summary="두 수의 나눗셈">
-      <option name="closed" value="true" />
-      <created>1703207408640</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1703207408640</updated>
-    </task>
-    <task id="LOCAL-00008" summary="각도기">
-      <option name="closed" value="true" />
-      <created>1703207758523</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1703207758523</updated>
-    </task>
-    <task id="LOCAL-00009" summary="짝수의 합">
-      <option name="closed" value="true" />
-      <created>1703208115500</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1703208115500</updated>
-    </task>
-    <task id="LOCAL-00010" summary="배열의 평균값">
-      <option name="closed" value="true" />
-      <created>1703208373765</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1703208373765</updated>
     </task>
     <task id="LOCAL-00011" summary="짝수와 홀수">
       <option name="closed" value="true" />
@@ -584,7 +539,55 @@
       <option name="project" value="LOCAL" />
       <updated>1706055013350</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="가장 가까운 글자">
+      <option name="closed" value="true" />
+      <created>1706141872791</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1706141872791</updated>
+    </task>
+    <task id="LOCAL-00055" summary="가장 가까운 글자">
+      <option name="closed" value="true" />
+      <created>1706141878037</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1706141878037</updated>
+    </task>
+    <task id="LOCAL-00056" summary="푸드 파이터 대회">
+      <option name="closed" value="true" />
+      <created>1706487993517</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1706487993517</updated>
+    </task>
+    <task id="LOCAL-00057" summary="콜라 문제">
+      <option name="closed" value="true" />
+      <created>1706574342280</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1706574342280</updated>
+    </task>
+    <task id="LOCAL-00058" summary="명예의 전당(1)">
+      <option name="closed" value="true" />
+      <created>1706660531916</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1706660531916</updated>
+    </task>
+    <task id="LOCAL-00059" summary="2016">
+      <option name="closed" value="true" />
+      <created>1706765630364</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1706765630364</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -599,11 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="콜라츠 추측" />
-    <MESSAGE value="서울에서 김서방 찾기" />
-    <MESSAGE value="나누어 떨어지는 숫자배열" />
-    <MESSAGE value="나누어 떨어지는 숫자" />
-    <MESSAGE value="핸드폰 번호 가리기" />
     <MESSAGE value="없는 숫자 더하기" />
     <MESSAGE value="제일 작은 수 제거하기" />
     <MESSAGE value="수박수박수박수박수박수?" />
@@ -624,6 +622,11 @@
     <MESSAGE value="숫자 문자열과 영단어" />
     <MESSAGE value="k번째 수" />
     <MESSAGE value="두 개 뽑아서 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="두 개 뽑아서 더하기" />
+    <MESSAGE value="가장 가까운 글자" />
+    <MESSAGE value="푸드 파이터 대회" />
+    <MESSAGE value="콜라 문제" />
+    <MESSAGE value="명예의 전당(1)" />
+    <MESSAGE value="2016" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016" />
   </component>
 </project>
