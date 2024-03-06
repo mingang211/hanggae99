@@ -113,7 +113,8 @@
     "애플리케이션.Quest72.executor": "Run",
     "애플리케이션.Quest73.executor": "Run",
     "애플리케이션.Quest74.executor": "Run",
-    "애플리케이션.Quest75.executor": "Run"
+    "애플리케이션.Quest75.executor": "Run",
+    "애플리케이션.Quest76.executor": "Run"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -123,20 +124,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Quest75">
-    <configuration name="Quest70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecata6.Quest70" />
-      <module name="codecata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codecata6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.Quest76">
     <configuration name="Quest72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codecata7.Quest72" />
       <module name="codecata" />
@@ -189,13 +177,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Quest76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecata7.Quest76" />
+      <module name="codecata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codecata7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Quest76" />
         <item itemvalue="애플리케이션.Quest75" />
         <item itemvalue="애플리케이션.Quest74" />
         <item itemvalue="애플리케이션.Quest73" />
         <item itemvalue="애플리케이션.Quest72" />
-        <item itemvalue="애플리케이션.Quest70" />
       </list>
     </recent_temporary>
   </component>
@@ -215,14 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703205249056</updated>
-    </task>
-    <task id="LOCAL-00031" summary="수박수박수박수박수박수?">
-      <option name="closed" value="true" />
-      <created>1704241664037</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1704241664037</updated>
     </task>
     <task id="LOCAL-00032" summary="내적">
       <option name="closed" value="true" />
@@ -608,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709616959044</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="최댓값과 최솟값">
+      <option name="closed" value="true" />
+      <created>1709681566055</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1709681566055</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
