@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0efa946a-593f-4829-8902-9bac9ff44a9b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codecata7/Quest74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codecata7/Quest77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,79 +51,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/PC/Desktop/hello-spring",
-    "onboarding.tips.debug.path": "C:/Users/PC/Desktop/git.test/codecata/src/Main.java",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Issue.Navigation",
-    "애플리케이션.Quest20.executor": "Run",
-    "애플리케이션.Quest25.executor": "Run",
-    "애플리케이션.Quest26.executor": "Run",
-    "애플리케이션.Quest27.executor": "Run",
-    "애플리케이션.Quest28.executor": "Run",
-    "애플리케이션.Quest29.executor": "Run",
-    "애플리케이션.Quest31.executor": "Run",
-    "애플리케이션.Quest32.executor": "Run",
-    "애플리케이션.Quest33.executor": "Run",
-    "애플리케이션.Quest34.executor": "Run",
-    "애플리케이션.Quest35.executor": "Run",
-    "애플리케이션.Quest36.executor": "Run",
-    "애플리케이션.Quest37.executor": "Run",
-    "애플리케이션.Quest38.executor": "Run",
-    "애플리케이션.Quest39.executor": "Run",
-    "애플리케이션.Quest40.executor": "Run",
-    "애플리케이션.Quest41.executor": "Run",
-    "애플리케이션.Quest42.executor": "Run",
-    "애플리케이션.Quest43.executor": "Run",
-    "애플리케이션.Quest44.executor": "Run",
-    "애플리케이션.Quest45.executor": "Run",
-    "애플리케이션.Quest46.executor": "Run",
-    "애플리케이션.Quest47.executor": "Run",
-    "애플리케이션.Quest48.executor": "Debug",
-    "애플리케이션.Quest49.executor": "Run",
-    "애플리케이션.Quest50.executor": "Run",
-    "애플리케이션.Quest51.executor": "Run",
-    "애플리케이션.Quest52.executor": "Debug",
-    "애플리케이션.Quest53.executor": "Run",
-    "애플리케이션.Quest54.executor": "Run",
-    "애플리케이션.Quest55.executor": "Run",
-    "애플리케이션.Quest56.executor": "Debug",
-    "애플리케이션.Quest57.executor": "Run",
-    "애플리케이션.Quest58.executor": "Run",
-    "애플리케이션.Quest59.executor": "Run",
-    "애플리케이션.Quest60.executor": "Run",
-    "애플리케이션.Quest61.executor": "Run",
-    "애플리케이션.Quest62.executor": "Run",
-    "애플리케이션.Quest63.executor": "Debug",
-    "애플리케이션.Quest64.executor": "Run",
-    "애플리케이션.Quest65.executor": "Run",
-    "애플리케이션.Quest66.executor": "Run",
-    "애플리케이션.Quest68.executor": "Run",
-    "애플리케이션.Quest69.executor": "Run",
-    "애플리케이션.Quest70.executor": "Run",
-    "애플리케이션.Quest72.executor": "Run",
-    "애플리케이션.Quest73.executor": "Run",
-    "애플리케이션.Quest74.executor": "Run",
-    "애플리케이션.Quest75.executor": "Run",
-    "애플리케이션.Quest76.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/hello-spring&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/PC/Desktop/git.test/codecata/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Issue.Navigation&quot;,
+    &quot;애플리케이션.Quest20.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest25.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest26.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest27.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest28.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest29.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest31.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest32.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest33.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest34.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest35.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest36.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest37.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest38.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest39.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest40.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest41.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest42.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest43.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest44.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest45.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest46.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest47.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest48.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.Quest49.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest50.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest51.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest52.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.Quest53.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest54.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest55.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest56.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.Quest57.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest58.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest59.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest60.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest61.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest62.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest63.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.Quest64.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest65.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest66.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest68.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest69.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest70.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest72.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest73.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest74.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest75.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Quest76.executor&quot;: &quot;Run&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="애플리케이션.Quest76">
     <configuration name="Quest72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codecata7.Quest72" />
@@ -216,14 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703205249056</updated>
-    </task>
-    <task id="LOCAL-00032" summary="내적">
-      <option name="closed" value="true" />
-      <created>1704242336737</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1704242336737</updated>
     </task>
     <task id="LOCAL-00033" summary="약수의 개수와 덧셈">
       <option name="closed" value="true" />
@@ -609,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709681566055</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="JadenCase 문자열 만들기">
+      <option name="closed" value="true" />
+      <created>1709712360976</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1709712360976</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -624,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="k번째 수" />
     <MESSAGE value="두 개 뽑아서 더하기" />
     <MESSAGE value="가장 가까운 글자" />
     <MESSAGE value="푸드 파이터 대회" />
@@ -649,6 +648,7 @@
     <MESSAGE value="달리기 경주" />
     <MESSAGE value="공원 산책" />
     <MESSAGE value="최댓값과 최솟값" />
-    <option name="LAST_COMMIT_MESSAGE" value="최댓값과 최솟값" />
+    <MESSAGE value="JadenCase 문자열 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="JadenCase 문자열 만들기" />
   </component>
 </project>
